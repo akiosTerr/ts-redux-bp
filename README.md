@@ -2,4 +2,4 @@
 
 ### Typescript Redux Boilerplate
 
- Typescript & Redux boilerplate for medium to big API projects
+ Typescript & Redux boilerplate for medium to big projects
